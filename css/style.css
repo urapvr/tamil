@@ -11,7 +11,7 @@ body {
   clear: both; 
 }
 #page{
-  width: 1000px; 
+  width: 800px; 
   margin: 40px auto 60px; 
 }
 h1 { 
@@ -60,7 +60,7 @@ sec-title {
   border-right: 1px solid #999;  
 }
 sec-contents { 
-  width: 800px; 
+  width: 600px; 
   float: right; 
 }
 
