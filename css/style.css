@@ -3,7 +3,7 @@
   padding: 0; 
 }
 body { 
-  font: 16px Mukta Malar, Baloo Thambi, Noto Sans, Roboto, Helvetica, Sans-Serif; 
+  font: 18px Mukta Malar, Baloo Thambi, Noto Sans, Roboto, Helvetica, Sans-Serif; 
   line-height: 24px; 
   text-align: justify;
 }
@@ -19,6 +19,7 @@ h1 {
   padding: 0 0 16px 0; 
   font-size: 42px; 
   font-weight: normal; 
+  font-family: Baloo Thambi;
   letter-spacing: 0px; 
   border-bottom: 1px solid #999; 
 }
