@@ -3,7 +3,7 @@
   padding: 0; 
 }
 body { 
-  font: 16px Noto Sans, Roboto, Helvetica, Sans-Serif; 
+  font: 16px Baloo Thambi, Noto Sans, Roboto, Helvetica, Sans-Serif; 
   line-height: 24px; 
   text-align: justify;
 }
@@ -32,7 +32,7 @@ h2 span {
   bottom: 0; 
   right: 0; 
   font-style: italic; 
-  font-family: Noto Sans, Roboto, Georgia, Serif; 
+  font-family: Baloo Thambi, Noto Sans, Roboto, Georgia, Serif; 
   font-size: 16px; 
   color: #999; 
   font-weight: normal; 
