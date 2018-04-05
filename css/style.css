@@ -3,9 +3,9 @@
   padding: 0; 
 }
 body { 
-  font: 18px; 
+  font-size: 20px; 
   font-family: 'Pavanam', cursive;
-  line-height: 24px; 
+  line-height: 28px; 
   text-align: justify;
 }
 .clear { 
@@ -47,8 +47,7 @@ a {
   text-decoration: none; 
 }
 a:hover { 
-  border-bottom-style: solid; 
-  color: black; 
+  border-bottom: 1px solid #0044bb;
 }
 sec-title { 
   font-style: italic; 
@@ -66,6 +65,8 @@ sec-contents {
   float: right; 
 }
 span.date{
-  color = #333333;
+  color: #999999;
+  padding-left: 10px;
+  font-size: 14px;
 }
 
