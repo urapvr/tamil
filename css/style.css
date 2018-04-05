@@ -23,6 +23,7 @@ h1 {
   font-family: 'Pavanam', cursive;
   letter-spacing: 0px; 
   border-bottom: 1px solid #999; 
+  line-height: 40px;
 }
 h2 { 
   font-size: 20px; 
