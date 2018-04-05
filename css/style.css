@@ -29,7 +29,8 @@ h1 {
 h2 { 
   font-size: 20px; 
   margin: 0 0 6px 0; 
-  position: relative; 
+  position: relative;
+  color: #777777;
 }
 h2 span { 
   position: absolute; 
