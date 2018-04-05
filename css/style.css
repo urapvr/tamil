@@ -3,7 +3,9 @@
   padding: 0; 
 }
 body { 
-  font: 18px Kavivanar, Open Sans; 
+  font: 18px; 
+  font-family: 'Kavivanar', cursive;
+  font-family: 'Open Sans', sans-serif;
   line-height: 24px; 
   text-align: justify;
 }
@@ -19,7 +21,8 @@ h1 {
   padding: 0 0 10px 0; 
   font-size: 42px; 
   font-weight: normal; 
-  font-family: Kavivanar;
+  font-family: 'Kavivanar', cursive;
+  font-family: 'Open Sans', sans-serif;
   letter-spacing: 0px; 
   border-bottom: 1px solid #999; 
 }
@@ -33,7 +36,8 @@ h2 span {
   bottom: 0; 
   right: 0; 
   font-style: italic; 
-  font-family: Kavivanar, Open Sans; 
+  font-family: 'Kavivanar', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px; 
   color: #999; 
   font-weight: normal; 
