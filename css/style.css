@@ -27,7 +27,7 @@ h1 {
   line-height: 40px;
 }
 h2 { 
-  font-size: 20px; 
+  font-size: 22px; 
   margin: 0 0 6px 0; 
   position: relative;
   color: #777777;
@@ -44,6 +44,9 @@ h2 span {
 }
 p { 
   margin: 0 0 16px 0; 
+}
+p.tabs {
+  margin: 0 0 10px 0;
 }
 a { 
   color: #000000; 
