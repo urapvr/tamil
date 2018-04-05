@@ -1,5 +1,5 @@
 * { 
-  margin: 1%; 
+  margin: 0; 
   padding: 0; 
 }
 body { 
@@ -12,8 +12,8 @@ body {
   clear: both; 
 }
 #page{
-  width: 75%; 
-  margin: 5% auto 5%; 
+  max-width: 800px; 
+  margin: 5% auto 5% 5%; 
 }
 h1 { 
   margin: 0 0 10px 0; 
@@ -43,7 +43,7 @@ p {
   margin: 0 0 16px 0; 
 }
 a { 
-  color: #A52A2A; 
+  color: #000000; 
   text-decoration: none; 
 }
 a:hover { 
@@ -64,5 +64,8 @@ sec-title {
 sec-contents { 
   width: 600px; 
   float: right; 
+}
+span.date{
+  color = #333333;
 }
 
