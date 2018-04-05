@@ -1,9 +1,9 @@
 * { 
-  margin: 0; 
+  margin: 1%; 
   padding: 0; 
 }
 body { 
-  font: 18px Mukta Malar, Baloo Thambi, Noto Sans, Roboto, Helvetica, Sans-Serif; 
+  font: 18px Kavivanar, Mukta Malar, Baloo Thambi, Noto Sans, Roboto, Helvetica, Sans-Serif; 
   line-height: 24px; 
   text-align: justify;
 }
@@ -11,12 +11,12 @@ body {
   clear: both; 
 }
 #page{
-  width: 800px; 
-  margin: 40px auto 60px; 
+  width: 75%; 
+  margin: 5% auto 5%; 
 }
 h1 { 
-  margin: 0 0 16px 0; 
-  padding: 0 0 16px 0; 
+  margin: 0 0 10px 0; 
+  padding: 0 0 10px 0; 
   font-size: 42px; 
   font-weight: normal; 
   font-family: Baloo Thambi;
