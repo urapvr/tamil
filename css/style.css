@@ -27,10 +27,10 @@ h1 {
   line-height: 40px;
 }
 h2 { 
-  font-size: 22px; 
-  margin: 0 0 6px 0; 
+  font-size: 64px; 
+  margin: 0 0 0 0; 
   position: relative;
-  color: #777777;
+  color: #bbbbbb;
 }
 h2 span { 
   position: absolute; 
@@ -46,7 +46,7 @@ p {
   margin: 0 0 16px 0; 
 }
 p.tabs {
-  margin: 0 0 10px 0;
+  margin: 0 0 0 50px;
 }
 a { 
   color: #000000; 
