@@ -51,6 +51,7 @@ p.tabs {
 a { 
   color: #000000; 
   text-decoration: none; 
+  border-bottom: 1px dotted #0044bb;
 }
 a:hover { 
   border-bottom: 1px solid #0044bb;
