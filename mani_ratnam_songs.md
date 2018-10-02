@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mani_ratnam_songs.md/
+permalink: /mani_ratnam_songs/
 title: மணிரத்னம் பாடல்கள்
 ---
 
