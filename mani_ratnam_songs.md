@@ -19,19 +19,21 @@ Our space is new, this time is new. We are alone together in a room for the firs
 தித்திக்குது வலி 
 
 Mind you, this is still foreplay, so do not touch with any intent to capture me. Oh, but neither can you leave.
+
 நீங்காதே, தீண்டாதே
 
-Her comes the humming of the pair like a swing denoting their dilemma for this moment of having honey on the tongue without swallowing it.
+And then comes the humming of the pair like a swing denoting their dilemma for this moment of having honey on the tongue without swallowing it.
 
-The வா that denotes 'come' in the start now has become a question as the morphological modifier of the verb.
-கடந்துபோகவா பூதம் ஐந்தையும்
-தொலைந்துபோகவா புலன்கள் ஐந்துமே
-மறந்துபோகவா என்ன பாலினம்
-மறந்துபோகவா எண்ணம் என்புமே
+Finally, the வா that denotes 'come' in the start now has become a question as the morphological modifier of the verb.
 
-Shall I surpass the five elements?
-Shall I lose all my senses?
-Shall I forget my gender?
-Shall I forget my mind and body?
+கடந்துபோகவா பூதம் ஐந்தையும்<br>
+தொலைந்துபோகவா புலன்கள் ஐந்துமே<br>
+மறந்துபோகவா என்ன பாலினம்<br>
+மறந்துபோகவா எண்ணம் என்புமே<br>
+<br>
+Shall I surpass the five elements?<br>
+Shall I lose all my senses?<br>
+Shall I forget my gender?<br>
+Shall I forget my mind and body?<br>
 
 The song thus ends with these questions of whether we shall actually do the ritual by losing ourselves.
