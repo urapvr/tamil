@@ -3,17 +3,20 @@ layout: page
 permalink: /mani_ratnam_songs/
 title: மணிரத்னம் பாடல்கள்
 ---
-
+<br>
 ## பறந்து செல்ல வா<br>
 ஓ காதல் கண்மணி<br>
 வைரமுத்து - ரஹ்மான்<br>
 Oct 2, 2018<br>
 
-The beats start as kisses. A foreplay. The pair plays on the border of having sex but resists it. The foreplay extends as a swaying dance -- பறந்து செல்ல வா -- come and fly with me. 
+The beats start as kisses. A foreplay. The pair play on the border of having sex but resist it. The foreplay extends as a swaying dance -- பறந்து செல்ல வா -- come and fly with me. 
 
 Our space is new, this time is new. We are alone together in a room for the first time. We are just speechless struggling for words, but this struggling silence is still sweet.
-புத்தம்புது வெளி, புத்தம்புது மொழி, திக்கியது மொழி, தித்திக்குது வலி. 
-puththam puthu veli, nodi, thikkiyadhu mozhi
+
+புத்தம்புது வெளி<br>
+புத்தம்புது மொழி<br>
+திக்கியது மொழி<br>
+தித்திக்குது வலி 
 
 Mind you, this is still foreplay, so do not touch with any intent to capture me. Oh, but neither can you leave.
 நீங்காதே, தீண்டாதே
@@ -30,3 +33,5 @@ Shall I surpass the five elements?
 Shall I lose all my senses?
 Shall I forget my gender?
 Shall I forget my mind and body?
+
+The song thus ends with these questions of whether we shall actually do the ritual by losing ourselves.
