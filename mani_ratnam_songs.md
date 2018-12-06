@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /mani_ratnam_songs/
-title: மணிரத்னம் பாடல்கள்
+permalink: /cinema_songs/
+title: சில சினிமாப்பாடல்கள்
 ---
 <br>
 
