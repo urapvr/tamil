@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2018_04_05_mahanagar_satyajit_ray.md/
+permalink: /2018_04_05_mahanagar_satyajit_ray/
 title: மஹாநகர் - சத்யஜித் ராய்
 ---
 ஏப்ரல் 5, 2018
