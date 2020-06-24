@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2020_06_22_ulagam_porukkudhillai.md/
+permalink: /2020_06_22_ulagam_porukkudhillai/
 title: உலகம் பொறுக்குதில்லை
 ---
 ஜூன் 22, 2020 லிருந்து<br>
