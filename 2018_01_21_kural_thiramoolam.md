@@ -2,7 +2,7 @@
 
 layout: page
 
-permalink: /2018_01_21_kural_thiramoolam.md/
+permalink: /2018_01_21_kural_thiramoolam/
 
 title: குறள் திறமூலம்
 ---
