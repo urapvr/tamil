@@ -4,6 +4,7 @@ permalink: /2020_06_22_ulagam_porukkudhillai/
 title: உலகம் பொறுக்குதில்லை
 ---
 ஜூன் 22, 2020 லிருந்து<br>
+<br>
 
 ## 1
 ### கானல் வரி<br>
@@ -22,6 +23,7 @@ Thus describing your pearls, you ask me to buy them, o man!<br>
 Exchanging our shining white pearls from the splashing sea,<br>
 Our traders receive fragrant flower garlands.<br>
 This is Pugār.<br>
+<br>
 
 ## 2
 ### தமிழர் நாட்டுப்பாடல் (நா. வானமாமலை தொகுப்பு)<br>
@@ -31,7 +33,7 @@ This is Pugār.<br>
 உன்னோட நானுரச, உலகம் பொறுக்கலையே<br>
 
 
-<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_cycle.png" alt="Cycle" style="width:600px;"/><br>
+<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_cycle.jpg" alt="Cycle" style="width:600px;"/><br>
 Pic credits: Call me by your name movie
 
 ### Tamil folk song (Na. Vaanamaamalai collection)<br>
@@ -39,6 +41,7 @@ The one with oiled hair who passes by my street,<br>
 See not my face, else we shall be blamed.<br>
 A stone rubbing off a stone, a fish rubbing off sea water,<br>
 Me rubbing off you, the world can hardly bear.<br>
+<br>
 
 ## 3
 ### தொல்காப்பியம் (சொல்லதிகாரம் / பால்)<br>
@@ -57,3 +60,4 @@ Words that refer to feminine people changed from masculine,<br>
 And words that refer to gods,<br>
 Do not have a specific gendered ending.<br>
 They take the gendered form based on the referred individual(s).<br>
+<br>
