@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2018_04_10_saayvu_annogen.md/
+permalink: /2018_04_10_saayvu_annogen/
 title: சாய்வு - அனோஜன்
 ---
 ஏப்ரல் 10, 2018
