@@ -94,7 +94,7 @@ Of a person without hands and speech.<br>
 சிரித்த ஒலியினிலுன் கைவிலக்கியே,<br>
 திருமித் தழுவியதில் நின்முகங் கண்டேன்.<br>
 
-<img src="../img/2020_06_22_ulagam_porukkudhillai_moonlight.jpg" alt="Portrait" style="width:600px;"/><br>
+<img src="../img/2020_06_22_ulagam_porukkudhillai_moonlight.jpg" alt="Moonlight" style="width:600px;"/><br>
 Pic credits: Moonlight movie
 
 ### Song of Kannan (by Bharathiyar)<br>
