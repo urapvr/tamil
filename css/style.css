@@ -3,23 +3,26 @@
   padding: 0; 
 }
 body { 
-  font-size: 20px; 
+  font-size: 24px; 
   font-family: 'Pavanam', cursive;
   line-height: 28px; 
   text-align: justify;
+  /* margin: auto; */
 }
 .clear { 
   clear: both; 
 }
 #page{
   max-width: 800px; 
-  margin: 5% auto 5% 5%; 
-  padding-right: 5%;
+  /* margin: 5% auto 5% 5%;  */
+  padding-left: 2.5%;
+  margin: 2.5% auto;
+  border-left: 2px dotted #999; 
 }
 h1 { 
   margin: 0 0 10px 0; 
   padding: 0 0 10px 0; 
-  font-size: 42px; 
+  font-size: 48px; 
   font-weight: normal; 
   font-family: 'Pavanam', cursive;
   letter-spacing: 0px; 
@@ -27,7 +30,7 @@ h1 {
   line-height: 40px;
 }
 h2 { 
-  font-size: 64px; 
+  font-size: 56px; 
   margin: 0 0 10px 0; 
   position: relative;
   color: #bbbbbb;
@@ -38,7 +41,7 @@ h2 span {
   right: 0; 
   font-style: italic; 
   font-family: 'Pavanam', cursive;
-  font-size: 16px; 
+  font-size: 18px; 
   color: #999; 
   font-weight: normal; 
 }
@@ -51,15 +54,19 @@ p.tabs {
 a { 
   color: #000000; 
   text-decoration: none; 
-  border-bottom: 1px dashed #aabbff;
+  /* border-bottom: 1px dashed #aabbff; */
+  transition: all 1s ease;
+  display: inline-block;
 }
 a:hover { 
-  border-bottom: 1px solid #0044bb;
+  /* border-bottom: 1px solid #0044bb; */
+   transform:scale(1.05) translateZ(0);
+   backface-visibility: hidden;
 }
 sec-title { 
   font-style: italic; 
   font-weight: normal; 
-  font-size: 18px; 
+  font-size: 24px; 
   text-align: right; 
   padding: 0 26px 0 0; 
   width: 150px; 
