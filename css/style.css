@@ -14,7 +14,6 @@ body {
 }
 #page{
   max-width: 800px; 
-  /* margin: 5% auto 5% 5%;  */
   padding-left: 2.5%;
   margin: 2.5% auto;
   border-left: 2px dotted #999; 
