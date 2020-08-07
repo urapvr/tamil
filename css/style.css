@@ -1,11 +1,11 @@
 * { 
-  margin: 0; 
-  padding: 0; 
+  /* margin: 0; 
+  padding: 0;  */
 }
 body { 
   font-size: 24px; 
   font-family: 'Pavanam', cursive;
-  line-height: 36px; 
+  /* line-height: 36px;  */
   text-align: justify;
   /* margin: auto; */
 }
@@ -13,7 +13,7 @@ body {
   clear: both; 
 }
 #page{
-  max-width: 800px; 
+  max-width: 1200px; 
   padding-left: 1.0%;
   padding-right: 1.0%;
   margin: 2.5% auto;
@@ -46,9 +46,9 @@ h2 span {
   color: #999; 
   font-weight: normal; 
 }
-p { 
+/* p { 
   margin: 0 0 16px 0; 
-}
+} */
 p.tabs {
   margin: 0 0 0 50px;
 }
@@ -83,3 +83,113 @@ span.date{
   font-size: 14px;
 }
 
+/* PHOTO CARDS */
+.card-photo {
+  display: grid;
+  justify-content: center;
+  /* flex-wrap: wrap; */
+  /* place-items: center; */
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+.card-photo-block {
+  position: relative;
+  display: inline-block;
+}
+.card-photo-img{
+  border-radius: 10px;
+  width: 250px;
+  /* flex: 1 1 250px; */
+  margin: 0;
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.25));
+}
+.card-photo-text {
+  width: 250px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 42%;
+  text-align: center;
+  color: black;
+  display: inline;
+  /* font-weight: bolder; */
+  font-size: 32px;
+}
+.card-photo-date{
+  width: 250px;
+  color: #666666;
+  font-size: 18px;
+  text-align: center;
+  display: inline;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 64%;
+}
+/* PHOTO CARDS END */
+
+
+/* PRSENTATION CARDS */
+.card-presentation {
+  display: grid;
+  justify-content: center;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+.card-presentation-title {
+  font-size: 32px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 0;
+  padding: 3rem 0rem; 
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5));
+}
+/* PRSENTATION CARDS END */
+
+
+/* ARTICLE CARDS NOT WORKING */
+
+.card-article-main {
+  display: grid;
+  justify-content: center;
+  /* flex-wrap: wrap; */
+  /* place-items: center; */
+  /* height: 100px; */
+  /* grid-gap: 1rem; */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  /* grid-template-rows: repeat(auto-fill, minmax(250px, 1fr)); */
+
+}
+
+
+.card-article {
+  position: relative;
+  /* display: grid;  */
+  /* justify-content: center; */
+  /* grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); */
+  display: inline-block;
+}
+
+.card-p-article {
+  text-align: center;
+  /* border-radius: 10px;
+  padding: 3rem 0rem;  */
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 44%;
+  display: inline;
+  /* mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5)); */
+}
+
+.card-date-article {
+  /* width: 250px; */
+  color: #666666;
+  font-size: 18px;
+  text-align: center;
+  display: inline;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 64%;
+}
