@@ -3,7 +3,7 @@
   padding: 0;  */
 }
 body { 
-  font-size: 24px; 
+  font-size: 16px; 
   font-family: 'Pavanam', cursive;
   /* line-height: 36px;  */
   text-align: justify;
@@ -31,7 +31,7 @@ h1 {
   line-height: 40px;
 }
 h2 { 
-  font-size: 56px; 
+  font-size: 32px; 
   margin: 0 0 10px 0; 
   position: relative;
   color: #bbbbbb;
@@ -114,12 +114,12 @@ span.date{
   color: black;
   display: inline;
   /* font-weight: bolder; */
-  font-size: 32px;
+  font-size: 24px;
 }
 .card-photo-date{
   width: 250px;
   color: #666666;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
   display: inline;
   position: absolute;
