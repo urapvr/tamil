@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /2012_kurumpaa/
-title: 2012_kurumpaa
+title: குறும்பா
 ---
 
 <br>
 
-# குறும்பா
 ## கத்துக்குட்டி குறுந்தொகை
 
 Originally published at https://kurumpaa.blogspot.com
 
+<br>
 
 ## 32
 ### மே 11, 2012
