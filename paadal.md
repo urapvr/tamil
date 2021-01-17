@@ -8,6 +8,6 @@ title: பாடல்கள்
 ## நான் பேச நினைப்பதெல்லாம்
 
 <audio controls>
-    <source src="rec/naan_pesa.mp3" type="audio/mpeg">
+    <source src="../rec/naan_pesa.mp3" type="audio/mpeg">
 </audio>
 <br>
