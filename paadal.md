@@ -13,3 +13,35 @@ title: பாடல்கள்
     <source src="../rec/naan_pesa.mp3" type="audio/mpeg">
 </audio>
 <br>
+
+## உறவெனும் புதிய வானில்
+### ஜனவரி 19, 2021
+
+<audio controls>
+    <source src="../rec/uravenum_pudhiya_vaanil.mp3" type="audio/mpeg">
+</audio>
+<br>
+
+## அக்கடானு நாங்க
+### ஜனவரி 19, 2021
+
+<audio controls>
+    <source src="../rec/akkadanu_naanga.mp3" type="audio/mpeg">
+</audio>
+<br>
+
+## அவள் உலக அழகியே
+### ஜனவரி 19, 2021
+
+<audio controls>
+    <source src="../rec/aval_ulaga_azhagiye.mp3" type="audio/mpeg">
+</audio>
+<br>
+
+## என்னுள்ளே என்னுள்ளே
+### ஜனவரி 19, 2021
+
+<audio controls>
+    <source src="../rec/ennulle_ennulle.mp3" type="audio/mpeg">
+</audio>
+<br>
