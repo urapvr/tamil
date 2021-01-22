@@ -45,3 +45,21 @@ title: பாடல்கள்
     <source src="../rec/ennulle_ennulle.mp3" type="audio/mpeg">
 </audio>
 <br>
+
+
+## ஆண்பாவம் பின்னணியிசை
+### ஜனவரி 21, 2021
+
+<audio controls>
+    <source src="../rec/aan_paavam_theme.mp3" type="audio/mpeg">
+</audio>
+<br>
+
+
+## மொட்டமாடி மொட்டமாடி
+### ஜனவரி 21, 2021
+
+<audio controls>
+    <source src="../rec/motta_maadi.mp3" type="audio/mpeg">
+</audio>
+<br>
