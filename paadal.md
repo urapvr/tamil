@@ -4,8 +4,15 @@ permalink: /paadal/
 title: பாடல்கள்
 ---
 
-<br>
-
+| <audio controls><source src="../rec/iravu_nilavu_ulagai_rasikka_20210123.mp3" type="audio/mpeg"></audio> | இரவு நிலவு உலகை ரசிக்க | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/poove_sempoove_20210123.mp3" type="audio/mpeg"></audio> | பூவே செம்பூவே | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/raamanin_mohanam_20210123.mp3" type="audio/mpeg"></audio> | இராமனின் மோகனம் | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/chevvandhi_poomudicha_20210123.mp3" type="audio/mpeg"></audio> | செவ்வந்திப் பூமுடிச்ச | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/vaa_vaa_anbe_anbe_20210123.mp3" type="audio/mpeg"></audio> | வா வா அன்பே அன்பே | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/thottu_thottu_pogum_thendral_20210123.mp3" type="audio/mpeg"></audio> | தொட்டுத்தொட்டுப் போகும் தென்றல் | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/snegidhane_20210123.mp3" type="audio/mpeg"></audio> | சினேகிதனே | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/theradi_veethiyil_20210123.mp3" type="audio/mpeg"></audio> | தேரடி வீதியில் | ஜனவரி 23, 2021 |
+| <audio controls><source src="../rec/aasaya_kaathula_20210123.mp3" type="audio/mpeg"></audio> | ஆசயக் காத்துல தூது விட்டு | ஜனவரி 23, 2021 |
 | <audio controls><source src="../rec/motta_maadi.mp3" type="audio/mpeg"></audio> | மொட்டமாடி மொட்டமாடி | ஜனவரி 21, 2021 |
 | <audio controls><source src="../rec/aan_paavam_theme.mp3" type="audio/mpeg"></audio> | ஆண்பாவம் பின்னணியிசை | ஜனவரி 21, 2021 |
 | <audio controls><source src="../rec/ennulle_ennulle.mp3" type="audio/mpeg"></audio> | என்னுள்ளே என்னுள்ளே | ஜனவரி 19, 2021 |
