@@ -7,7 +7,7 @@ title: பாடல்கள்
 <br>
 
 
-<audio controls><source src="../rec/motta_maadi.mp3" type="audio/mpeg"></audio> மொட்டமாடி மொட்டமாடி
+<audio controls><nobr><source src="../rec/motta_maadi.mp3" type="audio/mpeg"></nobr></audio> மொட்டமாடி மொட்டமாடி
 <!-- ஜனவரி 21, 2021 -->
 <!-- <br> -->
 
