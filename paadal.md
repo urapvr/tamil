@@ -4,6 +4,8 @@ permalink: /paadal/
 title: பாடல்கள்
 ---
 
+| <audio controls><source src="../rec/mukkathe_penne_theme_20210129.mp3" type="audio/mpeg"></audio> | முக்கத்தெப் பெண்ணே | ஜனவரி 29, 2021 |
+| <audio controls><source src="../rec/unna_nenachu_20210129.mp3" type="audio/mpeg"></audio> | உன்ன நெனச்சு | ஜனவரி 29, 2021 |
 | <audio controls><source src="../rec/iravu_nilavu_ulagai_rasikka_20210123.mp3" type="audio/mpeg"></audio> | இரவு நிலவு உலகை ரசிக்க | ஜனவரி 23, 2021 |
 | <audio controls><source src="../rec/poove_sempoove_20210123.mp3" type="audio/mpeg"></audio> | பூவே செம்பூவே | ஜனவரி 23, 2021 |
 | <audio controls><source src="../rec/raamanin_mohanam_20210123.mp3" type="audio/mpeg"></audio> | இராமனின் மோகனம் | ஜனவரி 23, 2021 |
