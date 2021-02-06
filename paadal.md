@@ -4,6 +4,8 @@ permalink: /paadal/
 title: பாடல்கள்
 ---
 
+| <audio controls><source src="../rec/kumari_pennin_ullathile_20210206.mp3" type="audio/mpeg"></audio> | குமரிப்பெண்ணின் உள்ளத்திலே | பிப்ரவரி 6, 2021 |
+| <audio controls><source src="../rec/kaadhal_oviyam_20210206.mp3" type="audio/mpeg"></audio> | காதல் ஓவியம் | பிப்ரவரி 6, 2021 |
 | <audio controls><source src="../rec/mukkathe_penne_theme_20210129.mp3" type="audio/mpeg"></audio> | முக்கத்தெப் பெண்ணே | ஜனவரி 29, 2021 |
 | <audio controls><source src="../rec/unna_nenachu_20210129.mp3" type="audio/mpeg"></audio> | உன்ன நெனச்சு | ஜனவரி 29, 2021 |
 | <audio controls><source src="../rec/iravu_nilavu_ulagai_rasikka_20210123.mp3" type="audio/mpeg"></audio> | இரவு நிலவு உலகை ரசிக்க | ஜனவரி 23, 2021 |
