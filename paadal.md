@@ -4,6 +4,8 @@ permalink: /paadal/
 title: பாடல்கள்
 ---
 
+| <audio controls><source src="../rec/megame_karukkayile_20210214.mp3" type="audio/mpeg"></audio> | மேகம் கருக்கயிலே | பிப்ரவரி 14, 2021 |
+| <audio controls><source src="../rec/aaraadhike_20210214.mp3" type="audio/mpeg"></audio> | ஆராதிகே | பிப்ரவரி 14, 2021 |
 | <audio controls><source src="../rec/kumari_pennin_ullathile_20210206.mp3" type="audio/mpeg"></audio> | குமரிப்பெண்ணின் உள்ளத்திலே | பிப்ரவரி 6, 2021 |
 | <audio controls><source src="../rec/kaadhal_oviyam_20210206.mp3" type="audio/mpeg"></audio> | காதல் ஓவியம் | பிப்ரவரி 6, 2021 |
 | <audio controls><source src="../rec/mukkathe_penne_theme_20210129.mp3" type="audio/mpeg"></audio> | முக்கத்தெப் பெண்ணே | ஜனவரி 29, 2021 |
