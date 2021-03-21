@@ -4,6 +4,8 @@ permalink: /paadal/
 title: பாடல்கள்
 ---
 
+| <audio controls><source src="../rec/enna_satham_indha_neram_20210321.mp3" type="audio/mpeg"></audio> | என்ன சத்தம் இந்த நேரம் | மார்ச் 21, 2021 |
+| <audio controls><source src="../rec/anjali_anjali_anjali_20210321.mp3" type="audio/mpeg"></audio> | அஞ்சலி அஞ்சலி அஞ்சலி | மார்ச் 21, 2021 |
 | <audio controls><source src="../rec/megam_karukkayile_20210214.mp3" type="audio/mpeg"></audio> | மேகம் கருக்கயிலே | பிப்ரவரி 14, 2021 |
 | <audio controls><source src="../rec/aaraadhike_20210214.mp3" type="audio/mpeg"></audio> | ஆராதிகே | பிப்ரவரி 14, 2021 |
 | <audio controls><source src="../rec/kumari_pennin_ullathile_20210206.mp3" type="audio/mpeg"></audio> | குமரிப்பெண்ணின் உள்ளத்திலே | பிப்ரவரி 6, 2021 |
