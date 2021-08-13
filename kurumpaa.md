@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2012_kurumpaa/
+permalink: /kurumpaa/
 title: குறும்பா
 ---
 

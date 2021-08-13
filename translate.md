@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /2021/
-title: 2021
+permalink: /translate/
+title: மொழிபெயர்ப்பு
 ---
 
-<br>
 
 ## பொருளடக்கம்
 [இரவீந்திரயிசை: உனையறிவேன் ஓ வேற்றூர்ப்பெண்ணே, அறிவேன்](#உனையறிவேன்_ஓ_வேற்றூர்ப்பெண்ணே)<br>
@@ -21,7 +20,6 @@ title: 2021
 [கிடை - நாவல் குறிப்பு](#கிடை)<br>
 [எண்ணும்பொழுது - சிறுகதைக் குறிப்பு](#எண்ணும்பொழுது)<br>
 
-<br>
 
 <a name="உனையறிவேன்_ஓ_வேற்றூர்ப்பெண்ணே"></a>
 
@@ -168,44 +166,173 @@ As falling rain water on the land of red soil.
 
 |சுடர்த்தொடீஇ கேளாய் தெருவில் நாம் ஆடும்<br>மணற் சிற்றில் காலின் சிதையா அடைச்சிய<br>கோதை பரிந்த வரிப் பந்து கொண்டு ஒடி<br>நோ தக்க செய்யும் சிறு பட்டி மேல் ஓர் நாள்<br>அன்னையும் யானும் இருந்தேமா இல்லிரே<br>உண்ணு நீர் வேட்டேன் என வந்தாற்கு அன்னை<br>அடர் பொற் சிரகத்தால் வாக்கி சுடரிழாய்<br>உண்ணு நீர் ஊட்டி வா என்றாள் என யானும்<br>தன்னை அறியாது சென்றேன் மற்று என்னை<br>வளை முன்கை பற்றி நலிய தெருமந்திட்டு<br>அன்னாய் இவன் ஒருவன் செய்தது காண் என்றேனோ<br>அன்னை அலறிப் படர்தர தன்னை யான்<br>உண்ணு நீர் விக்கினான் என்றேனோ அன்னையும்<br>தன்னைப் புறம்பு அழித்து நீவ மற்று என்னைக்<br>கடைக்கண்ணால் கொல்வான் போல் நோக்கி நகைக்கூட்டம்&nbsp;&nbsp;<br>செய்தான் அக் கள்வன் மகன்<br><br><br><br>|O my friend with the bright bangle! Listen.<br>The boy,<br>Who smashed our sand houses<br>That we built while playing on streets,<br>Who cut the flower garlands<br>That we wore,<br>Who annoyed us<br>By snatching our striped playball,<br>Came to our house when my mother and I were there,<br>And asked, "O people in the house, water!," and for that<br>My mother said to me, "Give him water in a golden vessel," and<br> I too proceeded with ignorance, but<br>He clutched my bangle-hands firmly which made me unnerving, and<br>I exclaimed, "Mother! Look at what he is doing!," hearing which<br>My mother came running, and <br>I said, "O, he is hiccupping on drinking water," for which<br>My mother started patting his back gently, while<br>That thief of a boy smiled at me<br>Glancing at me out of the corner of his eye<br>In such a way that he would take away my heart.<br>|
 
+
+## ஜூன் 22, 2020 லிருந்து
+### கானல் வரி<br>
+
+தீங்கதிர் வாண்முகத்தாள் செவ்வாய் மணிமுறுவல் ஒவ்வா வேனும்<br>
+வாங்குநீர் முத்தென்று வைகலும் மால்மகன்போல் வருதிர் ஐய<br>
+வீங்கோதந் தந்து விளங்கொளிய வெண்முத்தம் விரைசூழ் கானல்<br>
+பூங்கோதை கொண்டு விலைஞர்போல் மீளும் புகாரே எம்மூர்.<br>
+
+<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_handshake.png" alt="Handshake" style="width:400px;"/><br>
+Pic credits: Call me by your name movie
+
+### Lyric of the shore<br>
+Beautiful smile on the scarlet mouth of the one<br>
+Who has a sweet, radiant, moon-like glow.<br>
+Thus describing your pearls, you ask me to buy them, o man!<br>
+Exchanging our shining white pearls from the splashing sea,<br>
+Our traders receive fragrant flower garlands.<br>
+This is Pugār.<br>
 <br>
 
-<a name="கிடை"></a>
+### தமிழர் நாட்டுப்பாடல் (நா. வானமாமலை தொகுப்பு)<br>
+எண்ணெய்த் தலை முழுகி, என் தெருவே போறவரே<br>
+பாராதீரு என் முகத்தை, பழிகள் வந்து சேர்ந்திடுமே<br>
+கல்லோடு கல்லுரச, கடலுத் தண்ணி மீனுரச<br>
+உன்னோட நானுரச, உலகம் பொறுக்கலையே<br>
 
-## பிப்ரவரி 8, 2021
-### கிடை - நாவல் குறிப்பு 
 
-இதுவே நான் வாசித்த முதல் கி.ராஜநாராயணன் எழுத்து. குறுநாவலாகச் சொல்லப்படுகிறது. சிறுகதையாகவும் வாசிக்கலாம். 
+<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_cycle.jpg" alt="Cycle" style="width:250px;"/><br>
+Pic credits: Call me by your name movie
 
-நாவலில் முதலிலேயே ஈர்ப்பது அது கண்முன் காண்பிக்கும் கிடை என்ற உலகத்தின் சித்திரம். ஆட்டு மேய்ச்சல் என்றால் என்ன, ஒரு ஊருக்குள் எவ்வளவு ஆடுகள் உள்ளன, மேய்ச்சல் வாழ்வின் எல்லாக் கூறுகளும் எப்படி ஆட்டோடு இயைந்திருக்கிறன என்பதை நாவல் அற்புதமாக விவரிக்கிறது. குழந்தைக்குப் பால் இல்லாதபோது ஆட்டின் பால் கொடுக்கப்படுகிறது. குழந்தை வயிறு சரியில்லையென்றாலும் ஆட்டுப்பால். ஒருவருக்கு கண்பிரச்சனை இருந்தால் ஆட்டுப்பால் பீய்ச்சி அடிக்கப்படும். குளிர்போக்குவதற்காக ஆட்டின் ரோமம். வீட்டின் அடுப்பை மெழுகுவதற்கு ஆட்டுச்சாணம். உண்பதற்கு ஆட்டின் ஊண். மேலும் எப்படி பல்வேறு நாயக்கர்கள் ஆட்டுப் பாங்குகளுக்கு பொறுப்பில் உள்ளார்கள், எப்படி எல்லா பாங்குகளும் சேர்ந்து ஒரு கீதாரியின் பொறுப்பில் வருகிறது என்று நூல் அளிக்கும் விவரிப்பு ஆட்டின் பாலையும் புழுக்கையையும் சேர்ந்தே நுகரவைக்கிறது. கீதாரி எப்போதும் ஒரு நாயக்கரே. அவரின் கீழ் உள்ள பாங்குபொறுப்பாளர்கள் கவுண்டரும் நாயக்கருமாக உள்ளனர். அவர்களின் கீழுள்ள ஆடுமேய்ப்பாளர்கள் சாதியடுக்கில் இன்னும் கீழே உள்ளனர்.
-
-பழைய கீதாரியான வெங்கடராமானுஜ நாயக்கரின் அறிமுகத்தின்போதே அது ஒரு ஆணாதிக்கத்தின் உலகாகச் சொல்லப்படுகிறது. நாயக்கரின் மீசை சிலாகிக்கப்படுகிறது. அவர் சிறுவயதாக இருக்கும்போது எப்படி தனியாகப் போகும் பெண்களிடம் வம்பிழுப்பார் என்றுச் சொல்லப்படுகிறது. கதையின் கருவான அவருடைய பேரன் எல்லப்பனின் செய்த பெண்மீறலும் வன்புணர்வும் தலைமுறை தலைமுறையாக பொருளுடைமை நிலவுடைமை சமூகத்தில் எப்படி தழைத்தோங்கி இருக்கின்றன என்பதாகக் கொள்ளலாம். செவனியும் எல்லப்பனும் சேர்ந்து கிடைக்குப் போவது அவளின் பெற்றோருக்கு தெரிந்தேதான் இருக்கிறது. லகுவணக் கவுண்டர் அவர்கள்கூடவே செல்வது எல்லப்பனைக் கண்காணிக்கவே இருக்கலாம். எல்லப்பனுக்கும் இது தெரிந்தேதான் இருக்கவேண்டும். அதனாலேயே அவரை மயக்கிவிட்டு செவனியுடன் சென்றிருக்கவேண்டும். 
-
-பொருளுடை நாயக்கர்களுக்கு ஊர்முழுதும் பின்னல் இருப்பதைக் காணலாம். திம்மய்ய நாயக்கர் வன்புணர்வு நடந்தது என்று அறிந்தவுடன் செய்தி எல்லப்பனின் தாத்தாவான வெங்கடராமானுஜ நாயக்கருக்கு தற்போதைய கீதாரியான ராமசுப்பா நாயக்கர் மூலம் தெரிவிக்கப்படுகிறது. பஞ்சாயத்திலும் திம்மய்ய நாயக்கர் குறிகேட்கப்படும் என்று தெரிந்தே ஊர் என்ன முடிவெடுக்கிறதோ அதுவே அவரின் முடிவு என்று கூறுகிறார். குறி சொல்பவர்களை மறைமுகமாக கட்டாயப்படுத்தி எல்லப்பனைக் காப்பாற்றுவதற்காக ஏற்கனவே ஊர் ஏளனமாகப் பார்க்கும் பொன்னுசாமி நாயக்கரின் பெயரைச் சொல்லச்சொல்லியிருக்கவேண்டும். பண்டைய கிரேக்க நிலத்தில் ஏதன்ஸ் ஸ்பார்டா காரிந்த் உள்ளிட்ட எல்லா நகரநாடுகளும் எப்படி ஆரக்கில் என்ற குறிசொல்பவருக்கு கட்டுப்பட்டிருந்தன என்பதை இணைத்துப் பார்க்கலாம். போர் உள்ளிட்ட முக்கிய முடிவுகள் கூட குறிபார்த்தே எடுக்கப்பட்டன. குறிசொல்பவரை மறைமுகமாகக் கட்டுப்படுத்துகின்றவர் ஒரு பெரும்சக்தியாக திகழ்ந்திருக்கவேண்டும். இதேபோல் பொன்னியின் செல்வன் நாவலிலும் கும்பகோணம் சோதிடர் எப்படி சோழவரசுக்கு ஓர் உளவாளியாகச் செயல்படுகிறார், எப்படி அரசாட்சிப் பற்றி மக்களின் பார்வையை கட்டுப்படுத்துகிறார் என்பதைக் காணலாம். இவற்றைப்போன்றே சிறிய அளவில் சிறிய ஊர்களில் நிலவுடைமையாளர்களும் பொருளுடைமையாளர்களும் குறிசொல்பவர்களைத் தங்கள் கட்டுப்பாட்டில் வைத்திருக்கிறார்கள் என்று நாவல் உணர்த்துகிறது.  
-
-ஒரு பொருளுடைமையாள ஆண், சகோதரன் இல்லாக் குடும்பத்தில் பெண்பார்க்கும்போது, பொருள் பிரியக்கூடாது என்பதற்காக அப்பெண்ணின் எல்லாச் சகோதரிகளையும் சேர்ந்தே மணம்செய்துகொள்கிறான் என்பது நாவலில் ஒரு வரைத்தீற்றல்போல் சொல்லப்படுகின்றது. அடுத்து ஒரு மேய்ச்சல் பண்பாடும் ஒரு உழுப் பண்பாடும் எப்படி அடுக்கடுக்காக இருக்கிறது என்ற சித்திரம் வருகிறது. நிலவுடைமையாள ராக்காமாள் சொன்னச் சொல்லுக்கு கிடை மறிக்கப்படுவதும் அந்தப் பொழுதே ஊர் கூட்டப்படுவதும் நிலவுடைமையின் கீழ் பொருளுடைமை நிலவுவதைக் கோடிட்டுக் காட்டுகிறது. செவனியின் சாதியினர் பொருளுடைமைக்கும் நிலவுடைமைக்கும் அப்பால் தள்ளப்பட்டுள்ள மக்கள். அவள் என்ன பாடுபட்டால்கூட ஊரைக் கூட்டமுடியாது.  எந்தக் கொடுமை அவர்கள் மீது திணிக்கப்படும்போதும் அவர்கள் பள்ளக்குடியிலேயே பேசாதிருக்கவேண்டும். காத்தோ கருப்போ அடித்துவிட்டது என்றுசொல்லித்தான் மந்திரிக்கவேண்டும். ஆனால் அந்த மந்திருப்பேதான் அவர்கள் கோபத்தின் வெயீடு. கோடங்கிகாரனின் உடுக்குத்தான் அவர்கள் ஆற்றாது அழுத கண்ணீர். உடுக்கு அடிக்க அடிக்க செவனி “தன்” கதையைப் பாட்டாகச் சொல்லத் தொடங்குகிறாள். அது “தன்” கதை மட்டுமேவா. தன் கதையும் ”கூடத்தான்.” ஒவ்வொரு ஒடுக்கப்பட்டவரின் கதை. இந்த சாதியாதிக்க ஆணாதிக்கச் சமூகத்தில் வாய்பேசமுடியாமல் வாழும் ஒவ்வொரு பெண்ணின் கதை. ஒரு பெண் சாமியாடி உரக்கச் சொன்னால்தான் இவ்வுலகம் சிறிதளவேனும் காதுகொடுக்கிறது. #metoo
-
-<img src="../img/book_kidai.jpg" alt="Kidai Book Cover" width="100"/>
-
-[Amazon](https://www.amazon.in/gp/product/B0886LGTWM)
-
+### Tamil folk song (Na. Vaanamaamalai collection)<br>
+The one with oiled hair who passes by my street,<br>
+See not my face, else we shall be blamed.<br>
+A stone rubbing off a stone, a fish rubbing off sea water,<br>
+Me rubbing off you, the world can hardly bear.<br>
 <br>
 
-<a name="எண்ணும்பொழுது"></a>
+### தொல்காப்பியம் (சொல்லதிகாரம் / பால்)<br>
+பெண்மை சுட்டிய உயர்திணை மருங்கின்<br>
+ஆண்மை திரிந்த பெயர் நிலைக் கிளவியும்,<br>
+தெய்வம் சுட்டிய பெயர் நிலைக் கிளவியும்,<br>
+'இவ்' என அறியும் அந்தம் தமக்கு இலவே;<br>
+உயர்திணை மருங்கின் பால் பிரிந்து இசைக்கும்.<br>
 
-## ஜனவரி 27, 2021
-### எண்ணும்பொழுது - சிறுகதைக் குறிப்பு 
+<img src="../img/2020_06_22_ulagam_porukkudhillai_chitrangada_dance.jpg" alt="Chitrangada" style="width:400px;"/><br>
+Pic credits: Chitrangada movie
 
-[ஜெயமோகன்.இன் பிரசுரம்.](https://www.jeyamohan.in/143077/)
+### Tholkaapiyum (Section: 'Word', Subsection: 'Gender'), Tamil Grammar text<br>
+Words that refer to feminine people changed from masculine,<br>
+[And words that refer to masculine people changed from feminine, (implied)]<br>
+And words that refer to gods,<br>
+Do not have a specific gendered ending.<br>
+They take the gendered form based on the referred individual(s).<br>
+<br>
 
-[”எண்ணும்பொழுது”](https://www.jeyamohan.in/140839) சிறுகதை வாசித்தேன். ஒரு தளத்தில், எப்போது கதைக்கால ஆண் எண்ணத் தொடங்கினானோ அன்றே காதலில் நம்பிக்கை இல்லாமல் ஆகிறது. காலை பகல் மாலை என்று தெரியாமல் புரிவதே காதல். conscious உணர்வு எப்போது தலையிடுகிறதோ அப்போது காதல் உடைய நேர்கிறது. வெண்முரசின் பீஷ்மன் அம்பையிடம் சொல்வதுபோல் எப்பொழுது கையை நீட்டுகிறோமோ காட்டுக்கிளிகள் அஞ்சி பறந்துவிடும்.
+### குறுந்தொகை 58 (வெள்ளிவீதியார்)<br>
+இடிக்கும் கேளிர்! நும் குறை ஆக<br>
+நிறுக்கல் ஆற்றினோ நன்று மன் தில்ல;<br>
+ஞாயிறு காயும் வெவ் அறை மருங்கில்<br>
+கை இல் ஊமன் கண்ணின் காக்கும்<br>
+வெண்ணெய் உணங்கல் போலப்<br>
+பரந்தன்று, இந் நோய்; நோன்று கொளற்கு அரிதே!<br>
 
-மறுதளத்தில் ”எண்ணும்பொழுது” என்பது எண் என்பதை விடுத்து எண்ணம் என்பதையே நாடியது. உங்களின் குறள் உரையில் நீங்கள் குறிப்பிட்ட எண்ணென்ப ஏனைய எழுத்தென்ப என்பதன் சாத்தியப் பொருளான எண்ணம் என்ப வந்துபோனது. லெக்சிகனிலும் எண்ணம் என்பதற்கு thought உடன் கடைசியாக mathematics என்றும் பொருள் தரப்படிகிறது. போலவே எண் என்பதற்கு calculation உடன் thoughtம் வருகிறது.
+<img src="../img/2020_06_22_ulagam_porukkudhillai_portrait_of_a_lady_on_fire.jpg" alt="Portrait" style="width:250px;"/><br>
+Pic credits: Portrait of a lady on fire movie
 
-கதைக்காலத்தில் பெண் கவித்தன்மையோடு முல்லையைக் கொடுக்கிறாள், தான் காத்திருப்பேன் என்று. கடலைவிட பெரியதாக இருக்கப்போகும் பிரிவு எனும் கங்குல் வெள்ளத்தை காத்து இருந்து கடந்துவிடலாம் என்று.  பொருள்வயின் செல்லும் ஆணோ ஒரு பொருளையே கொடுக்கிறான். ஒருவேளை வெகுநாட்கள் கழித்து பூக்கள் உதிராமல், அக்கணமே முல்லை உதிர்ந்துவிட்டதோ.
+### Collected poems of love (Kurunthogai 58 by Velliveethiyaar)<br>
+O advising friend!<br>
+If you can stop my affliction it would be good.<br>
+It spreads everywhere like melting butter<br>
+On a hot bedrock under the scorching sun<br>
+Guarded only by the eyes<br>
+Of a person without hands and speech.<br>
+<br>
 
-வள்ளுவன் சொன்னது போல் “பிரிவுரைக்கும் வன்கண்ணர் ஆயின் அரிதவர் நல்குவர் என்னும் நசை” — ஒருவர் ‘நான் உன்னைப் பிரிகிறேன்’ என்று சொல்லும் அளவுக்கு கொடுமையானவர் என்றால், அவர் திரும்பி வந்து என்னிடம் அன்புசெய்வார் என்று கொள்ளுதல் மிகுந்த முட்டாள்தனம் அல்லவா. உன்னைவிட்டுச் செல்கிறேன் என்ற எண்ணம் எழுந்தக்கணமே முல்லை உதிர்வதற்கான அறிகுறியா.
+### கண்ணன் பாட்டு (பாரதியார்)<br>
+நெரித்த திரைக்கடலில் நின்முகங்கண்டேன்;<br>
+நீல விசும்பினிடை நின்முகங்கண்டேன்;<br>
+திரித்த நுரையினிடை நின்முகங்கண்டேன்;<br>
+சின்னக் குமிழிகளில் நின்முகங்கண்டேன்;<br>
+பிரித்துப் பிரித்துநிதம் மேகம் அளந்தே,<br>
+பெற்றதுன் முகமன்றிப் பிறிதொன்றில்லை;<br>
+சிரித்த ஒலியினிலுன் கைவிலக்கியே,<br>
+திருமித் தழுவியதில் நின்முகங் கண்டேன்.<br>
 
-நிகழ்காலத்தில் ஆண் கவித்தன்மையோடு உள்ளான். அவள் எதிர்துருவம். இருவேறு துருவங்களைச் சேர்த்து வைத்திருப்பது காமம் ஒன்றே. சுடச்சுடவே பொன் மேலும் சுடரும். காதல், காமத்தால் சுட்டால் ஒழிய ஒளிராது. தங்கம் வெளிறியே போகும். எப்போது அவர்கள் காமமின்றி பிரிய நேர்கிறதோ அப்பொழுதே அவர்கள் எண்ணத் தொடங்கிவிடுவார்கள்; அப்பொழுதே நிரந்திர பிரிவு தொடக்கம்.
+<img src="../img/2020_06_22_ulagam_porukkudhillai_moonlight.jpg" alt="Moonlight" style="width:400px;"/><br>
+Pic credits: Moonlight movie
+
+### Song of Kannan (by Bharathiyar)<br>
+In the rolling wavy sea, I saw your face.<br>
+Amidst the blue space, I saw your face.<br>
+Amongst braided froth, I saw your face.<br>
+In the small bubbles, I saw your face.<br>
+Patternizing the clouds daily,<br>
+I never saw anything but your face.<br>
+Hearing your smile and drawing your hands apart,<br>
+I looked back and hugged you, I saw your face.<br>
+<br>
+
+<!-- 
+### நானே வருகிறேன்<br>
+ஓ காதல் கண்மணி<br>
+வைரமுத்து - ரஹ்மான்<br>
+Oct 2, 2018<br>
+
+In the male dominated Indian society, the song (and the movie situation) surprisingly denotes the initiation of sex by the female, which is strongly underlined by the 'ae' ending of the subject நானே; not just I, but I <i>myself</i> am coming to you.
+
+நானே வருகிறேன்<br>
+கேளாமல் தருகிறேன்<br>
+கண்தீண்டி உறைகிறேன்<br>
+கைதீண்டி கரைகிறேன்<br>
+
+<i>I come by myself; I give without you asking, I freeze on seeing, and I melt on touching.</i>
+
+Still the female has her own hesitance. This swinging hesitation of the mood is beautifully brought out by the different variations of the swinging of swarams in நானே; I am coming, I...I am coming, I....I am coming.
+
+On the other hand, the male can only request. Yet even though she initiates the action, he still proceeds with a series of praise and request so as to make this act initiated by himself!
+
+He first describes her; <i>Oh, little secret, you are a little wonder.</i> 
+
+சின்னஞ்சிறு சின்னஞ்சிறு ரகசியமே<br>
+சின்னஞ்சிறு சின்னஞ்சிறு அதிசயமே<br>
+
+And then, he places the request; <i>please give your little finger, please shall I share your space.</i>
+
+சின்னஞ்சிறு விரல் கொடு<br>
+சின்னஞ்சிறு இடம் கொடு<br>
+
+And finally, he fully submits himself explaining why he thus does so. That <i>this little attraction of mine cannot lie, so please.</i>
+
+சின்னஞ்சிறு ஆசைக்கு பொய் சொல்ல தெரியாதே!
+
+
+
 
 <br>
+### பறந்து செல்ல வா<br>
+ஓ காதல் கண்மணி<br>
+வைரமுத்து - ரஹ்மான்<br>
+Oct 2, 2018<br>
+
+The beats start as kisses. A foreplay. The pair play on the border of having sex but resist it. The foreplay extends as a swaying dance -- பறந்து செல்ல வா -- come and fly with me. 
+
+Our space is new, this time is new. We are alone together in a room for the first time. We are just speechless struggling for words, but this struggling silence is still sweet.
+
+புத்தம்புது வெளி<br>
+புத்தம்புது மொழி<br>
+திக்கியது மொழி<br>
+தித்திக்குது வலி 
+
+Mind you, this is still foreplay, so do not touch with any intent to capture me. Oh, but neither can you leave.
+
+நீங்காதே, தீண்டாதே
+
+And then comes the humming of the pair like a swing denoting their dilemma for this moment of having honey on the tongue without swallowing it.
+
+Finally, the வா that denotes 'come' in the start now has become a question as the morphological modifier of the verb.
+
+கடந்துபோகவா பூதம் ஐந்தையும்<br>
+தொலைந்துபோகவா புலன்கள் ஐந்துமே<br>
+மறந்துபோகவா என்ன பாலினம்<br>
+மறந்துபோகவா எண்ணம் என்புமே<br>
+<br>
+Shall I surpass the five elements?<br>
+Shall I lose all my senses?<br>
+Shall I forget my gender?<br>
+Shall I forget my mind and body?<br>
+
+The song thus ends with these questions of whether we shall actually do the ritual by losing ourselves. -->
