@@ -8,7 +8,7 @@ title: சினிமா
 <br>
 
 ## பொருளடக்கம்
-[அவல் உப்புமா (அபே ரௌத்)](#அவல்_உப்புமா)<br>
+[கண்டே போஹே (அபே ரௌத்)](#கண்டே_போஹே)<br>
 [மஹாநகர் (ஷொத்யஜித் ராய்)](#மஹாநகர்)<br>
 [சித்திராங்கதா (ரிதுபர்னோ கோஷ்)](#சித்திராங்கதா)<br>
 
@@ -29,13 +29,17 @@ https://www.youtube.com/watch?v=qor1ecEWFFI
 ## June 18, 2021
 ### The 400 Blows (Francois Truffaut) -->
 
-<a name="அவல்_உப்புமா"></a>
+<a name="கண்டே_போஹே"></a>
 
-## அவல் உப்புமா (அபே ரௌத்)
+## கண்டே போஹே (அபே ரௌத்)
 ### அக்டோபர் 15, 2020
 
 
 <iframe width="500" height="333" src="https://www.youtube.com/embed/09atONSkJ5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+கண்டே போஹே (அவல் உப்புமா) - மராத்தி சிறுபடம்
+
+Kande Pohe - Marathi Short Film
 
 இயக்கம்: அபே ரௌத் (Abhay Raut)
 
@@ -52,7 +56,9 @@ https://www.youtube.com/watch?v=qor1ecEWFFI
 ## மஹாநகர் (ஷொத்யஜித் ராய்)
 ### ஏப்ரல் 5, 2018
 
-Mahanagar 
+Mahanagar by Satyajit Ray
+
+Language: Bengali
 
 மகாநகரம். நகரங்கள் எப்போதும் மாற்றத்தின் விளிம்பில் நிற்கின்றன. பல்வேறு மக்களின் சங்கமம், பல்வேறு பண்பாடுகளின் கலவை, பல்வேறு சிந்தனைகளின் ஊற்று, நகரங்கள். பெண்ணுரிமைக்கான முகம், மாற்றுப்பாலினத்துக்கான முகம், மாற்றுப்பாலீர்ப்புக்கான முகம் என பலமுகங்களை நகரங்கள் சூட்டிக்கொள்ளும். எதுவும் முகமூடி அல்ல, முகமேதான். 
 
@@ -71,7 +77,9 @@ Mahanagar
 ## சித்திராங்கதா (ரிதுபர்னோ கோஷ்)
 ### மார்ச் 8, 2015
 
-Chitrangada - A Crowning Wish
+Chitrangada: The Crowning Wish by Rituparno Ghosh
+
+Language: Bengali
 
 சித்திராங்கதை - சித்திராங்கதன்
 
