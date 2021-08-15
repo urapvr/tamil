@@ -18,8 +18,10 @@ title: மொழிபெயர்ப்பு
 [கலித்தொகை 106: ஏறு கோடலும் குரவை ஆடலும்](#ஏறு_கோடலும்_குரவை_ஆடலும்)<br>
 [கலித்தொகை 37: அங்கண் உடையன் அவன்](#அங்கண்_உடையன்_அவன்)<br>
 [கலித்தொகை 51: கள்வன் மகன்](#கள்வன்_மகன்)<br>
-[கிடை - நாவல் குறிப்பு](#கிடை)<br>
-[எண்ணும்பொழுது - சிறுகதைக் குறிப்பு](#எண்ணும்பொழுது)<br>
+[கண்ணன் பாட்டு (பாரதியார்): நெரித்த திரைக்கடலில்](#நெரித்த_திரைக்கடலில்)<br>[குறுந்தொகை 58 (வெள்ளிவீதியார்): இடிக்கும் கேளிர்](#இடிக்கும்_கேளிர்)<br>
+[தொல்காப்பியம் (சொல்லதிகாரம் / பால்): பெண்மை சுட்டிய உயர்திணை](#பெண்மை_சுட்டிய_உயர்திணை)<br>
+[தமிழர் நாட்டுப்பாடல் (நா. வானமாமலை தொகுப்பு): எண்ணெய்த் தலை முழுகி](#எண்ணெய்த்_தலை_முழுகி)<br>
+[சிலப்பதிகாரம், கானல் வரி: தீங்கதிர் வாண்முகத்தாள்](#தீங்கதிர்_வாண்முகத்தாள்)<br>
 
 
 
@@ -184,103 +186,75 @@ As falling rain water on the land of red soil.
 |சுடர்த்தொடீஇ கேளாய் தெருவில் நாம் ஆடும்<br>மணற் சிற்றில் காலின் சிதையா அடைச்சிய<br>கோதை பரிந்த வரிப் பந்து கொண்டு ஒடி<br>நோ தக்க செய்யும் சிறு பட்டி மேல் ஓர் நாள்<br>அன்னையும் யானும் இருந்தேமா இல்லிரே<br>உண்ணு நீர் வேட்டேன் என வந்தாற்கு அன்னை<br>அடர் பொற் சிரகத்தால் வாக்கி சுடரிழாய்<br>உண்ணு நீர் ஊட்டி வா என்றாள் என யானும்<br>தன்னை அறியாது சென்றேன் மற்று என்னை<br>வளை முன்கை பற்றி நலிய தெருமந்திட்டு<br>அன்னாய் இவன் ஒருவன் செய்தது காண் என்றேனோ<br>அன்னை அலறிப் படர்தர தன்னை யான்<br>உண்ணு நீர் விக்கினான் என்றேனோ அன்னையும்<br>தன்னைப் புறம்பு அழித்து நீவ மற்று என்னைக்<br>கடைக்கண்ணால் கொல்வான் போல் நோக்கி நகைக்கூட்டம்&nbsp;&nbsp;<br>செய்தான் அக் கள்வன் மகன்<br><br><br><br>|O my friend with the bright bangle! Listen.<br>The boy,<br>Who smashed our sand houses<br>That we built while playing on streets,<br>Who cut the flower garlands<br>That we wore,<br>Who annoyed us<br>By snatching our striped playball,<br>Came to our house when my mother and I were there,<br>And asked, "O people in the house, water!," and for that<br>My mother said to me, "Give him water in a golden vessel," and<br> I too proceeded with ignorance, but<br>He clutched my bangle-hands firmly which made me unnerving, and<br>I exclaimed, "Mother! Look at what he is doing!," hearing which<br>My mother came running, and <br>I said, "O, he is hiccupping on drinking water," for which<br>My mother started patting his back gently, while<br>That thief of a boy smiled at me<br>Glancing at me out of the corner of his eye<br>In such a way that he would take away my heart.<br>|
 
 
-## ஜூன் 22, 2020 லிருந்து
-### கானல் வரி<br>
-
-தீங்கதிர் வாண்முகத்தாள் செவ்வாய் மணிமுறுவல் ஒவ்வா வேனும்<br>
-வாங்குநீர் முத்தென்று வைகலும் மால்மகன்போல் வருதிர் ஐய<br>
-வீங்கோதந் தந்து விளங்கொளிய வெண்முத்தம் விரைசூழ் கானல்<br>
-பூங்கோதை கொண்டு விலைஞர்போல் மீளும் புகாரே எம்மூர்.<br>
-
-<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_handshake.png" alt="Handshake" style="width:400px;"/><br>
-Pic credits: Call me by your name movie
-
-### Lyric of the shore<br>
-Beautiful smile on the scarlet mouth of the one<br>
-Who has a sweet, radiant, moon-like glow.<br>
-Thus describing your pearls, you ask me to buy them, o man!<br>
-Exchanging our shining white pearls from the splashing sea,<br>
-Our traders receive fragrant flower garlands.<br>
-This is Pugār.<br>
 <br>
 
-### தமிழர் நாட்டுப்பாடல் (நா. வானமாமலை தொகுப்பு)<br>
-எண்ணெய்த் தலை முழுகி, என் தெருவே போறவரே<br>
-பாராதீரு என் முகத்தை, பழிகள் வந்து சேர்ந்திடுமே<br>
-கல்லோடு கல்லுரச, கடலுத் தண்ணி மீனுரச<br>
-உன்னோட நானுரச, உலகம் பொறுக்கலையே<br>
+<a name="நெரித்த_திரைக்கடலில்"></a>
+
+## ஜூன் 25, 2020
+### கண்ணன் பாட்டு (பாரதியார்)
+#### Song of Kannan (by Bharathiyar)
 
 
-<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_cycle.jpg" alt="Cycle" style="width:250px;"/><br>
-Pic credits: Call me by your name movie
-
-### Tamil folk song (Na. Vaanamaamalai collection)<br>
-The one with oiled hair who passes by my street,<br>
-See not my face, else we shall be blamed.<br>
-A stone rubbing off a stone, a fish rubbing off sea water,<br>
-Me rubbing off you, the world can hardly bear.<br>
-<br>
-
-### தொல்காப்பியம் (சொல்லதிகாரம் / பால்)<br>
-பெண்மை சுட்டிய உயர்திணை மருங்கின்<br>
-ஆண்மை திரிந்த பெயர் நிலைக் கிளவியும்,<br>
-தெய்வம் சுட்டிய பெயர் நிலைக் கிளவியும்,<br>
-'இவ்' என அறியும் அந்தம் தமக்கு இலவே;<br>
-உயர்திணை மருங்கின் பால் பிரிந்து இசைக்கும்.<br>
-
-<img src="../img/2020_06_22_ulagam_porukkudhillai_chitrangada_dance.jpg" alt="Chitrangada" style="width:400px;"/><br>
-Pic credits: Chitrangada movie
-
-### Tholkaapiyum (Section: 'Word', Subsection: 'Gender'), Tamil Grammar text<br>
-Words that refer to feminine people changed from masculine,<br>
-[And words that refer to masculine people changed from feminine, (implied)]<br>
-And words that refer to gods,<br>
-Do not have a specific gendered ending.<br>
-They take the gendered form based on the referred individual(s).<br>
-<br>
-
-### குறுந்தொகை 58 (வெள்ளிவீதியார்)<br>
-இடிக்கும் கேளிர்! நும் குறை ஆக<br>
-நிறுக்கல் ஆற்றினோ நன்று மன் தில்ல;<br>
-ஞாயிறு காயும் வெவ் அறை மருங்கில்<br>
-கை இல் ஊமன் கண்ணின் காக்கும்<br>
-வெண்ணெய் உணங்கல் போலப்<br>
-பரந்தன்று, இந் நோய்; நோன்று கொளற்கு அரிதே!<br>
-
-<img src="../img/2020_06_22_ulagam_porukkudhillai_portrait_of_a_lady_on_fire.jpg" alt="Portrait" style="width:250px;"/><br>
-Pic credits: Portrait of a lady on fire movie
-
-### Collected poems of love (Kurunthogai 58 by Velliveethiyaar)<br>
-O advising friend!<br>
-If you can stop my affliction it would be good.<br>
-It spreads everywhere like melting butter<br>
-On a hot bedrock under the scorching sun<br>
-Guarded only by the eyes<br>
-Of a person without hands and speech.<br>
-<br>
-
-### கண்ணன் பாட்டு (பாரதியார்)<br>
-நெரித்த திரைக்கடலில் நின்முகங்கண்டேன்;<br>
-நீல விசும்பினிடை நின்முகங்கண்டேன்;<br>
-திரித்த நுரையினிடை நின்முகங்கண்டேன்;<br>
-சின்னக் குமிழிகளில் நின்முகங்கண்டேன்;<br>
-பிரித்துப் பிரித்துநிதம் மேகம் அளந்தே,<br>
-பெற்றதுன் முகமன்றிப் பிறிதொன்றில்லை;<br>
-சிரித்த ஒலியினிலுன் கைவிலக்கியே,<br>
-திருமித் தழுவியதில் நின்முகங் கண்டேன்.<br>
+|நெரித்த திரைக்கடலில் நின்முகங்கண்டேன்;<br>நீல விசும்பினிடை நின்முகங்கண்டேன்;<br>திரித்த நுரையினிடை நின்முகங்கண்டேன்;<br>சின்னக் குமிழிகளில் நின்முகங்கண்டேன்;<br>பிரித்துப் பிரித்துநிதம் மேகம் அளந்தே,<br>பெற்றதுன் முகமன்றிப் பிறிதொன்றில்லை;<br>சிரித்த ஒலியினிலுன் கைவிலக்கியே,<br>திருமித் தழுவியதில் நின்முகங் கண்டேன்.<br>|In the rolling wavy sea, I saw your face.<br>Amidst the blue space, I saw your face.<br>Amongst braided froth, I saw your face.<br>In the small bubbles, I saw your face.<br>Patternizing the clouds daily,<br>I never saw anything but your face.<br>Hearing your smile and drawing your hands apart,<br>I looked back and hugged you, I saw your face.<br>|
 
 <img src="../img/2020_06_22_ulagam_porukkudhillai_moonlight.jpg" alt="Moonlight" style="width:400px;"/><br>
 Pic credits: Moonlight movie
 
-### Song of Kannan (by Bharathiyar)<br>
-In the rolling wavy sea, I saw your face.<br>
-Amidst the blue space, I saw your face.<br>
-Amongst braided froth, I saw your face.<br>
-In the small bubbles, I saw your face.<br>
-Patternizing the clouds daily,<br>
-I never saw anything but your face.<br>
-Hearing your smile and drawing your hands apart,<br>
-I looked back and hugged you, I saw your face.<br>
+
+<br>
+
+<a name="இடிக்கும்_கேளிர்"></a>
+
+## ஜூன் 24, 2020
+### குறுந்தொகை 58 (வெள்ளிவீதியார்)
+#### Collected poems of love (Kurunthogai 58 by Velliveethiyaar)
+
+|இடிக்கும் கேளிர்! நும் குறை ஆக<br>நிறுக்கல் ஆற்றினோ நன்று மன் தில்ல;<br>ஞாயிறு காயும் வெவ் அறை மருங்கில்<br>கை இல் ஊமன் கண்ணின் காக்கும்<br>வெண்ணெய் உணங்கல் போலப்<br>பரந்தன்று, இந் நோய்; நோன்று கொளற்கு அரிதே!<br>|O advising friend!<br>If you can stop my affliction it would be good.<br>It spreads everywhere like melting butter<br>On a hot bedrock under the scorching sun<br>Guarded only by the eyes<br>Of a person without hands and speech.<br>|
+
+<img src="../img/2020_06_22_ulagam_porukkudhillai_portrait_of_a_lady_on_fire.jpg" alt="Portrait" style="width:250px;"/><br>
+Pic credits: Portrait of a lady on fire movie
+
+
+<br>
+
+<a name="பெண்மை_சுட்டிய_உயர்திணை"></a>
+
+## ஜூன் 23, 2020
+### தொல்காப்பியம் (சொல்லதிகாரம் / பால்)
+#### Tholkaapiyum (Section: 'Word', Subsection: 'Gender'), Tamil Grammar text
+
+|பெண்மை சுட்டிய உயர்திணை மருங்கின்<br>ஆண்மை திரிந்த பெயர் நிலைக் கிளவியும்,<br>தெய்வம் சுட்டிய பெயர் நிலைக் கிளவியும்,<br>'இவ்' என அறியும் அந்தம் தமக்கு இலவே;<br>உயர்திணை மருங்கின் பால் பிரிந்து இசைக்கும்.<br>|Words that refer to feminine people changed from masculine,<br>[And words that refer to masculine people changed from feminine, (implied)]<br>And words that refer to gods,<br>Do not have a specific gendered ending.<br>They take the gendered form based on the referred individual(s).<br>|
+
+<img src="../img/2020_06_22_ulagam_porukkudhillai_chitrangada_dance.jpg" alt="Chitrangada" style="width:400px;"/><br>
+Pic credits: Chitrangada movie
+
+<br>
+
+<a name="எண்ணெய்த்_தலை_முழுகி"></a>
+
+## ஜூன் 23, 2020
+### தமிழர் நாட்டுப்பாடல் (நா. வானமாமலை தொகுப்பு)
+#### Tamil folk song (Na. Vaanamaamalai collection)
+
+|எண்ணெய்த் தலை முழுகி, என் தெருவே போறவரே<br>பாராதீரு என் முகத்தை, பழிகள் வந்து சேர்ந்திடுமே<br>கல்லோடு கல்லுரச, கடலுத் தண்ணி மீனுரச<br>உன்னோட நானுரச, உலகம் பொறுக்கலையே<br>|The one with oiled hair who passes by my street,<br>See not my face, else we shall be blamed.<br>A stone rubbing off a stone, a fish rubbing off sea water,<br>Me rubbing off you, the world can hardly bear.<br>|
+
+<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_cycle.jpg" alt="Cycle" style="width:250px;"/><br>
+Pic credits: Call me by your name movie
+
+
+<br>
+
+<a name="தீங்கதிர்_வாண்முகத்தாள்"></a>
+
+## ஜூன் 22, 2020
+### கானல் வரி - சிலப்பதிகாரம்
+#### Lyric of the shore - Silappathigaaram
+
+|தீங்கதிர் வாண்முகத்தாள் செவ்வாய் மணிமுறுவல் ஒவ்வா வேனும்<br>வாங்குநீர் முத்தென்று வைகலும் மால்மகன்போல் வருதிர் ஐய<br>வீங்கோதந் தந்து விளங்கொளிய வெண்முத்தம் விரைசூழ் கானல்<br>பூங்கோதை கொண்டு விலைஞர்போல் மீளும் புகாரே எம்மூர்.<br>|Beautiful smile on the scarlet mouth of the one<br>Who has a sweet, radiant, moon-like glow.<br>Thus describing your pearls, you ask me to buy them, o man!<br>Exchanging our shining white pearls from the splashing sea,<br>Our traders receive fragrant flower garlands.<br>This is Pugār.<br>|
+
+<img src="../img/2020_06_22_ulagam_porukkudhillai_call_me_by_your_name_handshake.png" alt="Handshake" style="width:400px;"/><br>
+Pic credits: Call me by your name movie
+
 <br>
 
 <!-- 
