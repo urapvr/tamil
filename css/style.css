@@ -3,9 +3,11 @@
   padding: 0;  */
 }
 body { 
-  font-size: 16px; 
-  font-family: 'Pavanam', cursive;
-  /* line-height: 36px;  */
+  font-size: 14px; 
+  font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
+  font-weight: 300;
+  line-height: 24px; 
+  letter-spacing: 0.5px; 
   text-align: justify;
   /* margin: auto; */
 }
@@ -23,15 +25,17 @@ body {
 h1 { 
   margin: 0 0 10px 0; 
   padding: 20px 0 10px 0; 
-  font-size: 48px; 
-  font-weight: normal; 
-  font-family: 'Pavanam', cursive;
+  font-size: 28px; 
+  font-weight: 400; 
+  font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
   letter-spacing: 0px; 
   border-bottom: 1px solid #999; 
   line-height: 40px;
+  color: #666666;
 }
 h2 { 
-  font-size: 32px; 
+  font-size: 20px; 
+  font-weight: 400;
   margin: 0 0 10px 0; 
   position: relative;
   color: #bbbbbb;
@@ -41,7 +45,7 @@ h2 span {
   bottom: 0; 
   right: 0; 
   font-style: italic; 
-  font-family: 'Pavanam', cursive;
+  font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
   font-size: 18px; 
   color: #999; 
   font-weight: normal; 
@@ -59,7 +63,7 @@ a {
   display: inline-block;
 }
 a:hover { 
-   transform:scale(1.05) translateZ(0);
+   transform:scale(1.025) translateZ(0);
    backface-visibility: hidden;
 }
 sec-title { 
@@ -80,54 +84,13 @@ sec-contents {
 span.date{
   color: #999999;
   padding-left: 10px;
-  font-size: 14px;
+  font-size: 13px;
 }
-
-/* PHOTO CARDS */
-.card-photo {
-  display: grid;
-  justify-content: center;
-  /* flex-wrap: wrap; */
-  /* place-items: center; */
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+span.tag{
+  color: lightslategray;
+  padding-left: 10px;
+  font-size: 12px;
 }
-.card-photo-block {
-  position: relative;
-  display: inline-block;
-}
-.card-photo-img{
-  border-radius: 10px;
-  width: 250px;
-  /* flex: 1 1 250px; */
-  margin: 0;
-  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.25));
-  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.25));
-}
-.card-photo-text {
-  width: 250px;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 42%;
-  text-align: center;
-  color: black;
-  display: inline;
-  /* font-weight: bolder; */
-  font-size: 24px;
-}
-.card-photo-date{
-  width: 250px;
-  color: #666666;
-  font-size: 16px;
-  text-align: center;
-  display: inline;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 64%;
-}
-/* PHOTO CARDS END */
 
 
 /* PRSENTATION CARDS */
@@ -135,63 +98,15 @@ span.date{
   display: grid;
   justify-content: center;
   grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
 }
 .card-presentation-title {
-  font-size: 32px;
+  font-size: 16;
   text-align: center;
   border-radius: 10px;
   margin: 0;
-  padding: 3rem 0rem; 
-  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5));
-  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5));
+  padding: 1rem 0rem; 
+  /* mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5));
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5)); */
 }
 /* PRSENTATION CARDS END */
-
-
-/* ARTICLE CARDS NOT WORKING */
-
-.card-article-main {
-  display: grid;
-  justify-content: center;
-  /* flex-wrap: wrap; */
-  /* place-items: center; */
-  /* height: 100px; */
-  /* grid-gap: 1rem; */
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  /* grid-template-rows: repeat(auto-fill, minmax(250px, 1fr)); */
-
-}
-
-
-.card-article {
-  position: relative;
-  /* display: grid;  */
-  /* justify-content: center; */
-  /* grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); */
-  display: inline-block;
-}
-
-.card-p-article {
-  text-align: center;
-  /* border-radius: 10px;
-  padding: 3rem 0rem;  */
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 44%;
-  display: inline;
-  /* mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5)); */
-}
-
-.card-date-article {
-  /* width: 250px; */
-  color: #666666;
-  font-size: 18px;
-  text-align: center;
-  display: inline;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 64%;
-}

@@ -1,1 +1,0 @@
-# Pallava Rockcut Temple, Tiruchirappalli
