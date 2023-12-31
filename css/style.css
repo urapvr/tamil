@@ -53,6 +53,17 @@ h2 span {
 /* p { 
   margin: 0 0 16px 0; 
 } */
+p.footer { 
+  margin: 10px 0 0 0; 
+  padding: 0 10px 0 20px; 
+  font-size: 12px; 
+  font-weight: 400; 
+  font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
+  letter-spacing: 0px; 
+  border-top: 1px solid #999; 
+  line-height: 40px;
+  color: #666666;
+}
 p.tabs {
   margin: 0 0 0 50px;
 }
