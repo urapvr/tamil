@@ -14,3 +14,7 @@ https://www.youtube.com/watch?v=4zkZbyN4Jgo
 
 அதிசயமாக பிரதீப் குமாரின் பாடலைவிட ஷான் ரொல்டன் - சக்திஸ்ரீ பாடலே பிடித்திருக்கிறது. 
 
+<p>
+<iframe width="400" height="267" src="https://www.youtube.com/embed/ubk_MzyPVrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="267" src="https://www.youtube.com/embed/4zkZbyN4Jgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
