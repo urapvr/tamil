@@ -31,14 +31,14 @@ h1 {
   letter-spacing: 0px; 
   border-bottom: 1px solid #999; 
   line-height: 40px;
-  color: #666666;
+  color: #444444;
 }
 h2 { 
   font-size: 20px; 
   font-weight: 400;
   margin: 0 0 10px 0; 
   position: relative;
-  color: #bbbbbb;
+  color: #666666;
 }
 h2 span { 
   position: absolute; 
@@ -47,7 +47,24 @@ h2 span {
   font-style: italic; 
   font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
   font-size: 18px; 
-  color: #999; 
+  color: #666666; 
+  font-weight: normal; 
+}
+h3 { 
+  font-size: 16px; 
+  font-weight: 400;
+  margin: 0 0 10px 0; 
+  position: relative;
+  color: #999999;
+}
+h3 span { 
+  position: absolute; 
+  bottom: 0; 
+  right: 0; 
+  font-style: italic; 
+  font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
+  font-size: 18px; 
+  color: #999999; 
   font-weight: normal; 
 }
 /* p { 
